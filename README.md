@@ -1,7 +1,7 @@
 # ID
 
-Repositori ini bertujuan untuk membuat sekumpulan kode C++ yang dapat mempermudah pengambilan atau konversi nilai dari sensor atau aktuator.
+Repositori ini bertujuan untuk membuat sekumpulan kode C++ yang dapat mempermudah mengambil atau mengolah data dan komunikasi data.
 
 # EN
 
-The repository aims to create a set of C++ code that facilitates retrieving or converting values from sensors or actuators
+This repository aims to create a collection of C++ code that can make it easier to retrieve or process data and data communication
