@@ -8,7 +8,7 @@ This repository aims to create a collection of C++ code that can make it easier 
 
 # FUNCTION
 
-## Sensrors
+## Sensors
 
 | Function          | Status       | Tetsted                     |
 | ----------------- | ------------ | --------------------------- |
