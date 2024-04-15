@@ -10,14 +10,14 @@ This repository aims to create a collection of C++ code that can make it easier 
 
 ## Sensors
 
-| Function          | Status       | Tetsted                     |
+| Function          | Status       | Tested                     |
 | ----------------- | ------------ | --------------------------- |
 | Analog to Percent | **✅** | ESP32, ESP8266, Arduino Uno |
 | Ultra Sonic       | ✅           | **❌**                |
 
 ## Espnow
 
-| Function | Status | Tetsted        |
+| Function | Status | Tested        |
 | -------- | ------ | -------------- |
 | Sender   | ✅     | ESP32, ESP8266 |
 | Receiver | ✅     | ESP32, ESP8266 |
